@@ -1,0 +1,3 @@
+✔ Fixed having to restart the app to see accounts
+✔ Added themes with theme editor. Themes are very limited due to WinForms being old and outdated.
+✔ Follow button now works with multiple accounts
